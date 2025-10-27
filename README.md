@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C, C++<br>🎯 Goals: Become a good developer and help people through technology.<br>🎲 Fun fact: I'm also a computer technician</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C, C++, Java<br>🎯 Goals: Become a good developer and help people through technology.<br>🎲 Fun fact: I'm also a computer technician</p>
 
 ###
 
