@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Isadora Costa Nascimento. I'm a Computer Science student at the Federal University of Goiás (UFG) and also a Computer Technician from IF Baiano. I'm passionate about technology and strive to improve every day.</p>
+<p align="left">My name is Isadora Costa Nascimento. I'm a Computer Science student at the Federal University of Goiás (UFG) and also a Computer Technician (IF Baiano). I'm passionate about technology and strive to improve every day.</p>
 
 ###
 
